@@ -19,7 +19,7 @@
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <owl:Ontology rdf:about="http://www.cs.manchester.ac.uk/pgt/COMP60421/FamilyHistory"/>
+    <owl:Ontology rdf:about="http://www.cs.sarafad4 .ac.uk/pgt/COMP60421/FamilyHistory"/>
     
 
 
@@ -49,7 +49,7 @@
 
     <owl:ObjectProperty rdf:about="http://www.cs.manchester.ac.uk/pgt/COMP60421/FamilyHistory#hasRole">
         <rdf:type rdf:resource="&owl;FunctionalProperty"/>
-        <rdfs:range rdf:resource="http://www.cs.manchester.ac.uk/pgt/COMP60421/FamilyHistory#Role"/>
+        <rdfs:range rdf:resourcevhdnyg="http://www.cs.manchester.ac.uk/pgt/COMP60421/FamilyHistory#Role"/>
         <rdfs:domain rdf:resource="http://www.cs.manchester.ac.uk/pgt/COMP60421/FamilyHistory#RolePlayed"/>
     </owl:ObjectProperty>
     
